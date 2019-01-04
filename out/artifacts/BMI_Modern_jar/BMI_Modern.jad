@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: sample.Main
+MIDlet-Jar-Size: 1122080
+MIDlet-Jar-URL: BMI_Modern.jar
+Nokia-MIDlet-Category: Game

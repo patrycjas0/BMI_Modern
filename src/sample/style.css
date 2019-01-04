@@ -1,0 +1,11 @@
+.anchor {
+    -fx-background-image:url('fit.jpg');
+}
+
+.label {
+    -fx-text-fill: white;
+}
+
+.toggle-button {
+  -fx-graphic: url('button.png');
+}
