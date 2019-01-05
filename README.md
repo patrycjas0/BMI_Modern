@@ -1,4 +1,4 @@
 # BMI_Modern
 Simple BMI calculator with modern design (Java FX)
 
-![alt text](https://lh6.googleusercontent.com/-1-798EyM8A45c9a_hx6XtD7ZuwL0lVLQnOWD9eduzNHcgyRo57XTexmimnucxHTJPZY64Y_YB00cR63VFj0=w1600-h758-rw)
+![alt text](https://lh5.googleusercontent.com/uXAcBqb-4AgpzJ-lq_LvveY3ftEGtn_JQfspapvv5tBtGrOBa1Aj61ZgV1qiTfp1DHYXRQiR4HJE5gTv_LbE=w1600-h758-rw)
